@@ -6,8 +6,10 @@ thumb_img_alt: Fatti riconoscere
 content_img_alt: Fatti riconoscere
 excerpt: Le persone devono sapere chi sei e cosa fai
 seo:
-  title: 'Fatti riconoscere online'
-  description: 'Per riuscire a scalare il nostro business online abbiamo bisogno di un qualcosa che ci renda riconoscibili e unici'
+  title: Fatti riconoscere online
+  description: >-
+    Per riuscire a scalare il nostro business online abbiamo bisogno di un
+    qualcosa che ci renda riconoscibili e unici
   robots: []
   extra: []
   type: stackbit_page_meta
@@ -23,7 +25,7 @@ Quando ci approcciamo al mondo online dobbiamo fare un cambio di paradigma. La n
 
 Piccole realtà di provincia hanno la possibilità di vendere il proprio prodotto/servizio in tutto il mondo riuscendo a fare fatturati anche a 6 zeri (ma questo aspetto al momento non ci deve interessare, rimaniamo con i piedi piantati a terra ).
 
-Per riuscire a scalare il nostro business online abbiamo bisogno di un qualcosa che ci renda riconoscibili e unici, vista la miriade di proposte e offerte che quotidianamente riceviamo sul web. Questo è a mio avviso il primo passo per iniziare a [creare il nostro ecosistema](https://oval-oregano-e2590.netlify.app/posts/inizio-del-cammino/).
+Per riuscire a scalare il nostro business online abbiamo bisogno di un qualcosa che ci renda riconoscibili e unici, vista la miriade di proposte e offerte che quotidianamente riceviamo sul web. Questo è a mio avviso il primo passo per iniziare a [creare il nostro ecosistema](https://scientific-pineapple-4f729.netlify.app/posts/inizio-del-cammino/).
 
 Come ho già detto nei miei precedenti post poniamoci sempre una domanda precisa :"Perché le persone dovrebbero comprare da noi?"
 
