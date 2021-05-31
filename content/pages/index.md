@@ -33,7 +33,7 @@ sections:
         url: blog/index.html
         style: button
 seo:
-  title: Stackbit Fresh Theme
+  title: Passaggio Digitale
   description: The preview of the Fresh theme
   extra:
     - name: 'og:type'
