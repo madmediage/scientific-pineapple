@@ -18,6 +18,13 @@ seo:
       value: Passaggio Digitale realizza la tua visione online
       keyName: property
       relativeUrl: false
+    - name: 'og:description'
+      value: >-
+        Racconto la mia esperienza personale su come ho avviato un società
+        online dal nulla. Tutti i passaggi che mi hanno portato a realizzare la
+        mia visione.
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: post
 thumb_img_path: /images/9.jpg
