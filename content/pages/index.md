@@ -33,7 +33,7 @@ sections:
         url: blog/index.html
         style: button
 seo:
-  title: 'Passaggio Digitale come realizzare la propria visione online '
+  title: 'Passaggio Digitale come reinventarsi online '
   description: Come realizzare la propria visione OnLine e crearne un lavoro
   extra:
     - name: 'og:type'
