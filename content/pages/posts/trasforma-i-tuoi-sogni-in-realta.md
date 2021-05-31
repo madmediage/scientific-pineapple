@@ -4,7 +4,7 @@ subtitle: Credici alla fine il tuo sogno si materializzerà
 date: '2021-05-26'
 thumb_img_alt: Trasforma i tuoi sogni in realtà
 content_img_alt: imprenditore digitale
-excerpt: lorem-ipsum
+excerpt: Credici alla fine il tuo sogno si materializzerà
 seo:
   title: ''
   description: ''
