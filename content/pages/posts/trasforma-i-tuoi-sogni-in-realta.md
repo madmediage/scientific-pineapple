@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Trasforma i tuoi sogni in realtà
 subtitle: lorem-ipsum
 date: '2021-05-31'
 thumb_img_alt: lorem-ipsum
