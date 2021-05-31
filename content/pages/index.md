@@ -9,7 +9,6 @@ sections:
       ### Realizza la tua visione&#xA;&#xA;
   - section_id: about
     type: section_content
-    title: About
     content: >
       Mi chiamo Andreas ho 53 anni e sono da 2 anni un imprenditore digitale.
       Dopo un evento importante che ha segnato la mia vita nel 2019 ho deciso di
