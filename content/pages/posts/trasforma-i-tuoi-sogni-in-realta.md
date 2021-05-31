@@ -25,6 +25,10 @@ seo:
         mia visione.
       keyName: property
       relativeUrl: false
+    - name: 'og:type'
+      value: website
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: post
 thumb_img_path: /images/9.jpg
