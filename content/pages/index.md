@@ -5,9 +5,8 @@ sections:
   - section_id: hero
     type: section_hero
     title: Passaggio Digitale
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: |
+      ### Realizza la tua visione&#xA;&#xA;
   - section_id: about
     type: section_content
     title: About
