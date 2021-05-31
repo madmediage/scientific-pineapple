@@ -7,9 +7,7 @@ content_img_alt: Fatti riconoscere
 excerpt: Le persone devono sapere chi sei e cosa fai
 seo:
   title: 
-  description: >-
-    Per riuscire a scalare il nostro business online abbiamo bisogno di un
-    qualcosa che ci renda riconoscibili e unici
+  description: 
   robots: []
   extra: []
   type: stackbit_page_meta
