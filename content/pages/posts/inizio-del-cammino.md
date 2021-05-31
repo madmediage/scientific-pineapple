@@ -60,3 +60,5 @@ Guardati intorno, a meno che tu non sia in grado di creare qualcosa che ancora n
 # Modello Hub and Spoke
 
 L'infrastruttura che noi abbiamo creato viene rappresentata molto bene da modello [Hub and Spoke](https://it.wikipedia.org/wiki/Hub_and_spoke).
+
+![](/\_static/app-assets/images/hub.png)
