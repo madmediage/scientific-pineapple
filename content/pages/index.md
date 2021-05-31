@@ -56,5 +56,4 @@ seo:
       value: /_static/app-assets/images/kind-owl.jpg
       relativeUrl: true
 layout: advanced
-excerpt: I
 ---
