@@ -60,3 +60,9 @@ Guardati intorno, a meno che tu non sia in grado di creare qualcosa che ancora n
 # Modello Hub and Spoke
 
 L'infrastruttura che noi abbiamo creato viene rappresentata molto bene da modello [Hub and Spoke](https://it.wikipedia.org/wiki/Hub_and_spoke).![](https://scientific-pineapple-4f729.netlify.app/images/hub.png)![](/\_static/app-assets/images/hub.jpg)
+
+Abbiamo creato un sito internet che è a tutti gli effetti l'hub o casa madre. Al suo interno parliamo di tutto quello che è il nostro ecosistema. Il sito è anche lo store dove vendiamo vendiamo i nostri prodotti/servizi.
+
+Sui social abbiamo tutta la nostra Community con cui interagiamo continuamente e che fa riferimento alla casa madre. I social sono una piazza ideale dove andare a parlare della nostra visione, di quello che intendiamo fare, ma alla stesso tempo ci permette di ascoltare gli ipotetici clienti e strutturare dei prodotti a hoc in base alle loro richieste o esigenza. Ad oggi la nostra Community conta circa 50 mila membri.
+
+Finisce qui la prima parte di questo argomento dedicato alla creazione di un ecosistema !
