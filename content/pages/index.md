@@ -34,7 +34,7 @@ sections:
         style: button
 seo:
   title: Passaggio Digitale
-  description: Come realizzare la propria visone OnLine e crearne un lavoro
+  description: Come realizzare la propria visione OnLine e crearne un lavoro
   extra:
     - name: 'og:type'
       value: website
