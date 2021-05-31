@@ -34,7 +34,7 @@ sections:
         style: button
 seo:
   title: Passaggio Digitale
-  description: The preview of the Fresh theme
+  description: Come realizzare la propria visone OnLine e crearne un lavoro
   extra:
     - name: 'og:type'
       value: website
