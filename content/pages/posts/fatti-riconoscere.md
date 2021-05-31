@@ -3,7 +3,7 @@ title: 'Fatti riconoscere '
 subtitle: Le persone devono sapere chi sei cosa fai e perchè
 date: '2021-05-31'
 thumb_img_alt: Fatti riconoscere
-content_img_alt: lorem-ipsum
+content_img_alt: Fatti riconoscere
 excerpt: lorem-ipsum
 seo:
   title: ''
