@@ -33,7 +33,7 @@ sections:
         url: blog/index.html
         style: button
 seo:
-  title: Passaggio Digitale
+  title: 'Passaggio Digitale come realizzare la propria visone online '
   description: Come realizzare la propria visione OnLine e crearne un lavoro
   extra:
     - name: 'og:type'
