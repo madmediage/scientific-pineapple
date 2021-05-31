@@ -14,6 +14,10 @@ seo:
       value: /_static/app-assets/images/elite-kale.jpg
       keyName: property
       relativeUrl: true
+    - name: 'og:title'
+      value: Passaggio Digitale realizza la tua visione online
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: post
 thumb_img_path: /images/9.jpg
