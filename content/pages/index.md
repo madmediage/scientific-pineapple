@@ -10,11 +10,17 @@ sections:
   - section_id: about
     type: section_content
     title: About
-    content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+    content: >
+      Mi chiamo Andreas ho 53 anni e sono da 2 anni un imprenditore digitale.
+      Dopo un evento importante che ha segnato la mia vita nel 2019 ho deciso di
+      mollare tutto e ricominciare da capo dando spazio alla mia creatività e
+      alla voglia di realizzare i miei sogni.
+
+
+      Nel 2020 insieme a mia moglie abbiamo intrapreso un'attività on line e
+      creato una società. In questo blog voglio condividere il nostro percorso
+      per aiutare o dare spunti a tutti coloro che vogliono intraprendere questo
+      percorso.
     actions:
       - label: Contact Me
         url: /contact
