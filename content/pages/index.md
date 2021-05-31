@@ -51,7 +51,7 @@ seo:
     - name: 'twitter:title'
       value: Passaggio Digitale
     - name: 'twitter:description'
-      value: The preview of the Fresh theme
+      value: Trasforma le tue idee e le tue passioni in un lavoro online
     - name: 'twitter:image'
       value: /_static/app-assets/images/kind-owl.jpg
       relativeUrl: true
