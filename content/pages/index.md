@@ -46,7 +46,7 @@ seo:
       value: The preview of the Fresh theme
       keyName: property
     - name: 'og:image'
-      value: /_static/app-assets/images/passaggio.png
+      value: /_static/app-assets/images/passaggio.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
