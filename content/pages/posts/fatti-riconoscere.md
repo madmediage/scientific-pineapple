@@ -1,6 +1,6 @@
 ---
 title: 'Fatti riconoscere '
-subtitle: lorem-ipsum
+subtitle: Le persone devono sapere chi sei cosa fai e perchè
 date: '2021-05-31'
 thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
