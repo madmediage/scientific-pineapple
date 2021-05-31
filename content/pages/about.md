@@ -1,6 +1,6 @@
 ---
 title: Chi sono
-subtitle: This is a short page about me and my work.
+subtitle: 'La cosa più importante è credere in se stessi, il resto vien da se.'
 img_path: /images/6fc9a3d2-a525-45dc-8cf1-8467112d8184.jpg
 img_alt: Portrait of a man with beard and mustache
 seo:
