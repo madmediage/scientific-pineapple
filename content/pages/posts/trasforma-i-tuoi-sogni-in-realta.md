@@ -1,6 +1,6 @@
 ---
 title: Trasforma i tuoi sogni in realtà
-subtitle: lorem-ipsum
+subtitle: Credici alla fine il tuo sogno si materializzerà
 date: '2021-05-31'
 thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
