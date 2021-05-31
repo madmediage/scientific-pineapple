@@ -8,8 +8,7 @@ sections:
     content: |
       ### Realizza la tua visione&#xA;&#xA;
     actions:
-      - label: lorem-ipsum
-        url: '#'
+      - url: '#'
         style: link
         icon_class: dev
         new_window: false
