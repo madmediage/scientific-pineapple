@@ -1,7 +1,7 @@
 ---
 title: L'inizio del cammino
 subtitle: Pensa al cammino e non alla meta !
-date: '2021-05-31'
+date: '2021-05-27'
 thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
 excerpt: lorem-ipsum
