@@ -21,7 +21,7 @@ sections:
       per aiutare o dare spunti a tutti coloro che vogliono intraprendere questo
       percorso.
     actions:
-      - label: Contact Me
+      - label: Contattami
         url: /contact
         style: button
   - section_id: recent-posts
