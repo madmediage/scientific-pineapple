@@ -3,7 +3,7 @@ title: L'inizio del cammino
 subtitle: Pensa al cammino e non alla meta !
 date: '2021-05-27'
 thumb_img_alt: vendere on line
-content_img_alt: lorem-ipsum
+content_img_alt: Vendere online
 excerpt: lorem-ipsum
 seo:
   title: ''
