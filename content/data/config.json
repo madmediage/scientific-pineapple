@@ -56,9 +56,7 @@
             }
         ]
     },
-    "footer": {
-        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=fresh&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>"
-    },
+    "footer": {},
     "domain": "https://scientific-pineapple-4f729.netlify.app",
     "title": "Passaggio al Digitale",
     "favicon": "/images/6fc9a3d2-a525-45dc-8cf1-8467112d8184.jpg"
