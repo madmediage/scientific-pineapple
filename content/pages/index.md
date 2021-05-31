@@ -40,7 +40,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:description'
-      value: The preview of the Fresh theme
+      value: Trasforma le tue idee e le tue passioni in un lavoro online
       keyName: property
     - name: 'og:image'
       value: /_static/app-assets/images/passaggio.jpg
