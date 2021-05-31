@@ -53,7 +53,7 @@ seo:
     - name: 'twitter:description'
       value: The preview of the Fresh theme
     - name: 'twitter:image'
-      value: images/4.jpg
+      value: /_static/app-assets/images/kind-owl.jpg
       relativeUrl: true
 layout: advanced
 ---
