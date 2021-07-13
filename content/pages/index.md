@@ -38,7 +38,7 @@ sections:
     posts_number: 4
     actions:
       - label: View Blog
-        url: blog/index.html
+        url: 'https://passaggiodigitale.netlify.app/blog/'
         style: button
 seo:
   title: 'Passaggio Digitale come reinventarsi online '
