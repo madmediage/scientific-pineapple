@@ -6,8 +6,8 @@ thumb_img_alt: Fatti riconoscere
 content_img_alt: Fatti riconoscere
 excerpt: Le persone devono sapere chi sei e cosa fai
 seo:
-  title: 
-  description: 
+  title: null
+  description: null
   robots: []
   extra: []
   type: stackbit_page_meta
@@ -29,7 +29,7 @@ Come ho già detto nei miei precedenti post poniamoci sempre una domanda precisa
 
 Andiamo avanti !
 
-# Primo Passo
+## Primo Passo
 
 Come detto in questo blog parlo della mia personale esperienza personale, per cui racconto quali passi abbiamo fatto per partire. Questo non vuol dire in alcun modo che questa prassi sia quella esatta. Con noi ha funzionato.
 
@@ -39,7 +39,7 @@ Uno dei segni distintivi di un'attività è il logo. Il logo rappresenta noi, la
 
 Partendo dal logo iniziamo a strutturare quello che viene definito il **personal branding**, ma avremo modo di parlarne nei prossimimi post.
 
-# Tools utili per la creazione di un logo
+## Tools utili per la creazione di un logo
 
 Se non sei in grado di crearne uno sappi che ci sono dei tools gratuiti che puoi utilizzare per iniziare a creare un logo.
 
