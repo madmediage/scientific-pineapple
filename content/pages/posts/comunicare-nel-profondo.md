@@ -12,7 +12,6 @@ seo:
   extra: []
 layout: post
 ---
-
 Oggi é domenica e di buon ora mi sono andato a camminare. Ma non a camminare in modo tranquillo. Bacchette alla mano e via a scarpinare (camminata nordica)
 
 É un periodo che sono molto riflessivo. Le strategie che fino ad oggi ci hanno permesso di convertire sembrano non dare piú i risultati di qualche mese fa.
@@ -33,7 +32,7 @@ I mesi successivi la creazione della societá mia moglie ha lasciato il suo stud
 
 I mesi passavano, il lavoro andava a gonfie vele.
 
-Arriviamo al mese di luglio e cominciamo a notare un calo degli ordini. 
+Arriviamo al mese di luglio 2021 e cominciamo a notare un calo degli ordini. 
 
 Certo nei mesi estivi chi fa la dieta? 
 
