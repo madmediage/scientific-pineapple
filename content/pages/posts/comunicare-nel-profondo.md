@@ -14,6 +14,7 @@ seo:
   extra: []
 layout: post
 thumb_img_path: /images/5.jpg
+thumb_img_alt: Comunicare nel profondo
 ---
 Oggi é domenica e di buon ora mi sono andato a camminare. Ma non a camminare in modo tranquillo. Bacchette alla mano e via a scarpinare (camminata nordica)
 
