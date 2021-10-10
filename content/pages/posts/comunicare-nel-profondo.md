@@ -44,9 +44,9 @@ Ma andiamo oltre
 
 Ma torniamo a oggi e alla mia passeggiata.
 
-**Se ragiono cosí sono come il 99,99% delle persone che vogliono vendere online**
+Mentre ragiono sulle possibili cause del calo di vendite mi viene un flash e mi dico** :**
 
-Questo é uno dei pensieri che mi sono passati per la testa nella mia passeggiata domenicale.
+> **Se ragiono cosí sono come il 99,99% delle persone che vogliono vendere online **
 
 Perché dico questo? 
 
