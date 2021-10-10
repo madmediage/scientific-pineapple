@@ -13,7 +13,7 @@ seo:
   robots: []
   extra: []
 layout: post
-thumb_img_path: /images/5.jpg
+thumb_img_path: /images/pensiero.jpg
 thumb_img_alt: Comunicare nel profondo
 content_img_path: /images/5.jpg
 ---
