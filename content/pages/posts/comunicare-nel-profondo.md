@@ -60,20 +60,30 @@ Abbiamo creato attorno a noi una “Tribú” pronta a fare di tutto per noi. Ma
 
 Insomma una grande Famiglia di cui non possiamo piú farne a meno.
 
-Ma oggi sono qui a fare un passo indietro. 
+Ma oggi sono qui a fare un passo indietro. Credo che ogni imprenditore debba farlo senza pensare sempre al profitto.
 
-E si perché mi sono reso conto che a forza di pensare a come possiamo vendere i nostri prodotti, abbiamo iniziato a tralasciare o meglio a mettere in secondo piano quella che é la CAUSA principale che ci ha portato a raggiungere qualche risultato.  
+E si perché mi sono reso conto che a forza di pensare a come possiamo vendere i nostri prodotti, abbiamo iniziato a tralasciare o meglio a mettere in secondo piano quella che é la** CAUSA** principale che ci ha portato a raggiungere qualche risultato.  
 
-Questo a mio avviso ci fa apparire agli occhi dei nostri ipotetici clienti, come appare il 99,99% dei venditore online.
+Questo a mio avviso ci fa apparire agli occhi dei nostri ipotetici clienti, come appare il 99,99% dei venditori online mentre nel mercato di oggi la parola d'ordine é differenziarsi.
 
-Allora quali sono le soluzioni?
+### Allora quali sono le soluzioni?
 
 La maggioranza di noi in questo momento é spaesata. Abbiamo vissuto, con questa pandemia, due anni assurdi.
 
-Usciamo da questa pandemia cambiati, con altri valori, pensieri e principi. La libertá, la voglia di confrontarci, la voglia di trovare persone che ci ascoltano, far parte di un gruppo che ci rappresenti.
+Usciamo da questa pandemia cambiati, con altri valori, pensieri e principi. 
 
-Per quanto mi riguarda dobbiamo ricominciare a trasmettere la nostra vision e i nostri ideali alla nostra community.
+La libertá, la voglia di confrontarci, la voglia di trovare persone che ci ascoltano, far parte di un gruppo che ci rappresenti.
 
-Dobbiamo andare nel profondo delle persone, farle sentire parte e protagonisti del nostro ideale, della nostra causa perché é anche la loro.
+Per quanto mi riguarda dobbiamo ricominciare a trasmettere la nostra vision e i nostri ideali alla community.
+
+Dobbiamo andare nel profondo , far sentire le persone protagoniste del nostro ideale, della nostra causa perché é anche la loro.
 
 Solo cosí a mio avviso possiamo uscire da questo momento di difficolta! 
+
+PS: Per chiunque legga questo post, queste sono parole di uno sfogo personale. Sono del parere che é proprio nei momenti di difficoltá che dobbiamo reagire e cercare di capire dove stiamo sbagliando. 
+
+Una delle doti che mia moglie mi ha trasmesso in questi 12 anni insieme é l'umiltá e io con questo post sono quia a dire che é giusto ammettere di aver sbagliato.
+
+
+
+Buona vita a tutti
