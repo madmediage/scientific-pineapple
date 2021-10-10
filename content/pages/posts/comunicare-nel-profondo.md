@@ -34,7 +34,7 @@ I mesi passavano, il lavoro andava a gonfie vele.
 
 Arriviamo al mese di luglio 2021 e cominciamo a notare un calo degli ordini. 
 
-Certo nei mesi estivi chi fa la dieta? 
+Ovvio mi dico nei mesi estivi chi fa la dieta? 
 
 Noi non abbiamo uno storico delle vendite affidabile, in quanto il 2019 si vendicchiava visto che mia moglie lavorava principalmente nello studio offline, il 2020 é stato un anno a se per cui mi viene difficile poter leggere i dati sull’andamento del fatturato.
 
