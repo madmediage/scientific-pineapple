@@ -42,7 +42,9 @@ sections:
         style: button
 seo:
   title: 'Passaggio Digitale come reinventarsi online '
-  description: Come realizzare la propria visione OnLine e crearne un lavoro
+  description: >-
+    Come realizzare la propria visione OnLine e crearne un lavoro. Quanti come
+    me a 53 anni vorrebbero rimettersi in gioco? Il ditale lo permette
   extra:
     - name: 'og:type'
       value: website
