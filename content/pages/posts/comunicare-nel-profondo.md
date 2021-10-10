@@ -40,7 +40,7 @@ Ovvio mi dico nei mesi estivi chi fa la dieta? 
 
 Ma andiamo oltre
 
-8 settembre lanciamo uno dei prodotti stagionali e torniamo alla solita mole di vendita. Ok tutto perfetto tutto bello. 
+8 settembre 2021, appena tornati dalle ferie, lanciamo uno dei prodotti stagionali e torniamo alla solita mole di vendita. Ok tutto perfetto tutto bello. 
 
 Ma torniamo a oggi e alla mia passeggiata.
 
