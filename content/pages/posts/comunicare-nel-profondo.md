@@ -45,7 +45,7 @@ Ovvio mi dico nei mesi estivi chi fa la dieta? 
 
 Ma andiamo oltre
 
-8 settembre 2021, appena tornati dalle ferie, lanciamo uno dei prodotti stagionali e torniamo alla solita mole di vendita. Ok tutto perfetto tutto bello. 
+L'8 settembre 2021, appena tornati dalle ferie, lanciamo uno dei prodotti stagionali e torniamo alla solita mole di vendita. Ok tutto perfetto tutto bello. 
 
 Ma torniamo a oggi e alla mia passeggiata.
 
@@ -67,7 +67,7 @@ Insomma una grande Famiglia di cui non possiamo piú farne a meno.
 
 Ma oggi sono qui a fare un passo indietro. Credo che ogni imprenditore debba farlo senza pensare sempre al profitto.
 
-E si perché mi sono reso conto che a forza di pensare a come possiamo vendere i nostri prodotti, abbiamo iniziato a tralasciare o meglio a mettere in secondo piano quella che é la** CAUSA** principale che ci ha portato a raggiungere qualche risultato.  
+E si perché mi sono reso conto che a forza di pensare a come possiamo vendere i nostri prodotti, abbiamo iniziato a tralasciare o meglio a mettere in secondo piano quella che é la\*\* CAUSA\*\* principale che ci ha portato a raggiungere qualche risultato.  
 
 Questo a mio avviso ci fa apparire agli occhi dei nostri ipotetici clienti, come appare il 99,99% dei venditori online mentre nel mercato di oggi la parola d'ordine é differenziarsi.
 
@@ -75,7 +75,7 @@ Questo a mio avviso ci fa apparire agli occhi dei nostri ipotetici clienti, come
 
 La maggioranza di noi in questo momento é spaesata. Abbiamo vissuto, con questa pandemia, due anni assurdi.
 
-Usciamo da questa pandemia cambiati, con altri valori, pensieri e principi. 
+Usciamo da questa pandemia cambiati, con altri valori, pensieri e principi.
 
 La libertá, la voglia di confrontarci, la voglia di trovare persone che ci ascoltano, far parte di un gruppo che ci rappresenti.
 
@@ -85,10 +85,8 @@ Dobbiamo andare nel profondo , far sentire le persone protagoniste del nostro id
 
 Solo cosí a mio avviso possiamo uscire da questo momento di difficolta! 
 
-PS: Per chiunque legga questo post, queste sono parole di uno sfogo personale. Sono del parere che é proprio nei momenti di difficoltá che dobbiamo reagire e cercare di capire dove stiamo sbagliando. 
+PS: Per chiunque legga questo post, queste sono parole di uno sfogo personale. Sono del parere che é proprio nei momenti di difficoltá che dobbiamo reagire e cercare di capire dove stiamo sbagliando.
 
 Una delle doti che mia moglie mi ha trasmesso in questi 12 anni insieme é l'umiltá e io con questo post sono quia a dire che é giusto ammettere di aver sbagliato.
-
-
 
 Buona vita a tutti
