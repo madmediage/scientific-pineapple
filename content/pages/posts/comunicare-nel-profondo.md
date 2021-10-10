@@ -3,7 +3,7 @@ title: Comunicare nel profondo
 subtitle: Sto comunicando bene con i miei clienti?
 date: '2021-10-10'
 content_img_alt: Comunicare nel profondo
-excerpt: Sto comunicando la cosa gisuts
+excerpt: Sto comunicando la cosa giuta
 seo:
   title: Comunicare nel profondo
   description: >-
