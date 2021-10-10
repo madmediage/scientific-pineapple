@@ -54,7 +54,7 @@ Quando 3 anni fa abbiamo cominciato la nostra avventura, io e mia moglie eravamo
 
 Nella nostra community che a oggi conta 38 mila persone, avevamo coniato il motto “**QUESTA NON É UNA DIETA MA UN NUOVO STILE DI VITA**” riuscendo a trasmettere la convinzione nelle persone che tutto questo é possibile. 
 
-Abbiamo aiutato migliaia di persone del gruppo a raggiungere obiettivi importanti.
+Abbiamo aiutato migliaia di persone del gruppo a raggiungere obiettivi importanti e questo succede ancora oggi.
 
 Abbiamo creato attorno a noi una “Tribú” pronta a fare di tutto per noi. Ma noi ovviamente siamo pronti a fare di tutto per loro.
 
