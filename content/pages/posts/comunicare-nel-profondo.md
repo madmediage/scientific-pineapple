@@ -44,15 +44,15 @@ Ma andiamo oltre
 
 Ma torniamo a oggi e alla mia passeggiata.
 
-Mentre ragiono sulle possibili cause del calo di vendite mi viene un flash e mi dico** :**
+Mentre ragiono sulle possibili cause del calo di vendite mi viene un flash e mi dico\*\* :\*\*
 
-> **Se ragiono cosí sono come il 99,99% delle persone che vogliono vendere online **
+> \*\*Se ragiono cosí sono come il 99,99% delle persone che vogliono vendere online \*\*
 
 Perché dico questo? 
 
 Quando 3 anni fa abbiamo cominciato la nostra avventura, io e mia moglie eravamo spinti e motivati da una profonda convinzione di aiutare le persone a cambiare il loro stile di vita.
 
-Nella nostra community che a oggi conta 38 mila persone, avevamo coniato il motto “QUESTA NON É UNA DIETA MA UN NUOVO STILE DI VITA” riuscendo a trasmettere la convinzione nelle persone che tutto questo é possibile. 
+Nella nostra community che a oggi conta 38 mila persone, avevamo coniato il motto “**QUESTA NON É UNA DIETA MA UN NUOVO STILE DI VITA**” riuscendo a trasmettere la convinzione nelle persone che tutto questo é possibile. 
 
 Abbiamo aiutato migliaia di persone del gruppo a raggiungere obiettivi importanti.
 
