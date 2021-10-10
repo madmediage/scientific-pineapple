@@ -24,9 +24,9 @@ sections:
 
 
       Nel 2020 insieme a mia moglie abbiamo intrapreso un'attività on line e
-      creato una società. In questo blog voglio condividere il nostro percorso
-      per aiutare o dare spunti a tutti coloro che vogliono intraprendere questo
-      percorso.
+      creato una società. In questo blog voglio condividere il mio percorso per
+      aiutare o dare spunti a tutti coloro che pensano di essere troppo vecchi
+      per ricominciare.
     actions:
       - label: Contattami
         url: /contact
