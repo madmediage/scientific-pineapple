@@ -7,7 +7,10 @@ content_img_alt: lorem-ipsum
 excerpt: lorem-ipsum
 seo:
   title: Comunicare nel profondo
-  description: ''
+  description: >-
+    Siamo sicuri di comunicare nel modo giusto con i nostri clienti? Stiamo
+    portando avanti la nostra causa o stiamo pensando solo al fatturato? É
+    importante capire
   robots: []
   extra: []
 layout: post
