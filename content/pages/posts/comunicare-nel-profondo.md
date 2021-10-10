@@ -2,7 +2,7 @@
 title: Comunicare nel profondo
 subtitle: Sto comunicando bene con i miei clienti?
 date: '2021-10-10'
-content_img_alt: lorem-ipsum
+content_img_alt: Comunicare nel profondo
 excerpt: lorem-ipsum
 seo:
   title: Comunicare nel profondo
