@@ -17,7 +17,7 @@ thumb_img_path: /images/pensiero.jpg
 thumb_img_alt: Comunicare nel profondo
 content_img_path: /images/pensiero.jpg
 ---
-Oggi é domenica e di buon ora mi sono andato a camminare. Ma non a camminare in modo tranquillo. Bacchette alla mano e via a scarpinare (camminata nordica)
+Oggi é domenica e di buon ora sono andato a camminare. Ma non a camminare in modo tranquillo. Bacchette alla mano e via a scarpinare (camminata nordica)
 
 É un periodo che sono molto riflessivo. Le strategie che fino ad oggi ci hanno permesso di convertire sembrano non dare piú i risultati di qualche mese fa.
 
