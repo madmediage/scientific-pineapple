@@ -58,16 +58,7 @@
     },
     "footer": {
         "content": "© PASSAGGIO AL DIGITALE 2021. ALL RIGHTS RESERVED",
-        "links": [
-            {
-                "label": "lorem-ipsum",
-                "url": "#",
-                "style": "icon",
-                "icon_class": "dev",
-                "new_window": false,
-                "no_follow": false
-            }
-        ]
+        "links": []
     },
     "domain": "https://passaggiodigitale.netlify.app",
     "title": "Passaggio al Digitale",
