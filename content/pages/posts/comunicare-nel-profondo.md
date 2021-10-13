@@ -51,7 +51,7 @@ Ma torniamo a oggi e alla mia passeggiata.
 
 Mentre ragiono sulle possibili cause del calo di vendite mi viene un flash e mi dico\*\* :\*\*
 
-> \*\*Se ragiono cosí sono come il 99,99% delle persone che vogliono vendere online \*\*
+> \*\*Se ragiono cosí sono come il 99,9% delle persone che vogliono vendere online \*\*
 
 Perché dico questo? 
 
